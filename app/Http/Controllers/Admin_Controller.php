@@ -20,7 +20,7 @@ class Admin_Controller extends Controller{
     }
 
 
-// public function index(){
-//     return view('admin.admin_master');//page load name
-// }
+public function index(){
+    return view('admin.admin_master');//page load name
+}
 }
